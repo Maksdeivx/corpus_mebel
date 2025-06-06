@@ -235,14 +235,14 @@ font-size:0.9em;
 }
 
 .post::before{
-    content: url(./img/Group\_2424.png);
+    content: url(../img/Group_2424.png);
     display: inline-block;
     width: 32px;
     margin-right:5px;
     vertical-align:middle;
 }
 .time::before{
-    content: url(./img/Group\_6009.png);
+    content: url(../img/Group_6009.png);
     display: inline-block;
     width: 32px;
     height:32px;
@@ -250,7 +250,7 @@ font-size:0.9em;
     vertical-align:middle;
 }
 .number::before{
-    content: url(./img/Group.png);
+    content: url(../img/Group.png);
     display: inline-block;
     width: 32px;
     height:32px;
@@ -511,7 +511,7 @@ font-size:0.9em;
 /*Оформление полностью блока с формой и списком*/
 .form-1{
     font-family: "SF Pro Display";
-    background-image: url(./img/фон.png);
+    background-image: url(../img/фон.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left:0px;
@@ -528,7 +528,7 @@ font-size:0.9em;
     font-size:1.1em;
     font-weight:700;
     list-style: none;
-    list-style-image: url(./img/галочка.png);
+    list-style-image: url(../img/галочка.png);
 }
 
 .form-1 #phone-number, .form-1 #name, .form-1 #submit-1{
@@ -557,7 +557,7 @@ font-size:0.9em;
 /*Блок второй формы*/
 .form-2{
     font-family: "SF Pro Display";
-    background-image: url(./img/фон.png);
+    background-image: url(../img/фон.png);
     background-repeat:no-repeat;
     background-size: cover;
     margin-left:0px;
@@ -575,7 +575,7 @@ font-size:0.9em;
     font-size:1.1em;
     font-weight:700;
     list-style: none;
-    list-style-image: url(./img/галочка.png);
+    list-style-image: url(../img/галочка.png);
 }
 
 .form-2 #phone-number-2, .form-2 #name-2, .form-2 #submit-2{
