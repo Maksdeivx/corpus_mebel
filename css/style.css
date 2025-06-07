@@ -872,3 +872,6 @@ footer h6{
     color:#69922E;
     font-weight:700;
 }
+#submit-1:hover, #submit-2:hover{
+    background-color: #8fbb51;
+}
